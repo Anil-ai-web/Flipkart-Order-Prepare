@@ -10,7 +10,7 @@ from openpyxl import load_workbook
 from openpyxl.formula.translate import Translator
 
 
-APP_TITLE = "Purchase Order to Working File Dashboard"
+APP_TITLE = "Flipkart PO to Working File Dashboard"
 BRAND = "@ANIL KUMAR PADHI"
 
 WORKING_SHEET_CANDIDATES = ["Working", "working"]
@@ -60,7 +60,7 @@ st.markdown(
     <div class='main-title'>
         <h1>📦 Purchase Order Automation Dashboard</h1>
         <p>
-        Upload your formulated working file + multiple Flipkart PO files, then download the filled Excel file.
+        Prepared By.
         {BRAND}
         </p>
     </div>
