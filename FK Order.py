@@ -11,7 +11,7 @@ from openpyxl.formula.translate import Translator
 
 
 APP_TITLE = "Purchase Order to Working File Dashboard"
-BRAND = "@BAJRABHANU"
+BRAND = "@ANIL KUMAR PADHI"
 
 WORKING_SHEET_CANDIDATES = ["Working", "working"]
 MASTER2_SHEET_CANDIDATES = ["master 2", "Master 2", "Master-2", "master-2"]
